@@ -18,3 +18,4 @@ Robuntu 22.04 is a modified disk image of the original Ubuntu 22.04 image, to fa
 *peek
 *microsoft edge
 *synaptic
+*all dependencies of previous packages.
